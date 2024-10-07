@@ -4,15 +4,17 @@
 
 - Java 17
 - Spring Boot 3.3.4
-- Maven (opcional, si usas Gradle, indícalo)
+- Maven
+- Lombok
 
 ## Requisitos Previos
 
 Asegúrate de tener instalados los siguientes elementos:
 
 - **Java JDK 17** o superior. Puedes descargarlo desde [aquí](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html).
-- **Maven** (opcional) si decides usar Maven como gestor de dependencias. Puedes descargarlo desde [aquí](https://maven.apache.org/download.cgi).
+- **Maven** Puedes descargarlo desde [aquí](https://maven.apache.org/download.cgi).
 - **Git** (opcional) si deseas clonar el repositorio.
+- **Lombok** Puedes descargarlo desde [aquí](https://projectlombok.org/download).
 
 ## Instalación
 

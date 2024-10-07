@@ -15,6 +15,7 @@ Asegúrate de tener instalados los siguientes elementos:
 - **Maven** Puedes descargarlo desde [aquí](https://maven.apache.org/download.cgi).
 - **Git** (opcional) si deseas clonar el repositorio.
 - **Lombok** Puedes descargarlo desde [aquí](https://projectlombok.org/download).
+- **MongoDB** Debe estar instalado, se debe crear la database 'btgpactual' y la colección 'transactions'.
 
 ## Instalación
 
